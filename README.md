@@ -1,5 +1,5 @@
 # Tarefas API (Spring Boot)
-Projeto exemplo para gerenciar tarefas (To-Do) conforme especificação da disciplina.
+Projeto exemplo para gerenciar tarefas (To-Do) Desenvolvimento Web
 
 👥 Integrantes
 
