@@ -1,6 +1,13 @@
 # Tarefas API (Spring Boot)
 Projeto exemplo para gerenciar tarefas (To-Do) conforme especificação da disciplina.
 
+👥 Integrantes
+
+Erick Almeida Iarenczuk
+
+Kauã Hilgenberg
+
+Gustavo Alves Zanon Ricardo
 ## Rodando
 1. Configure `src/main/resources/application.properties` com os dados do seu PostgreSQL.
 2. Build: `mvn clean package`
